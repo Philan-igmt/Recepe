@@ -10,4 +10,11 @@
   background-position: center;
   background-repeat: no-repeat;
   background-blend-mode: darken;
+  overflow-x: hidden;
+}
+
+.footer {
+  height: 20vh;
+  background-color: rgb(82, 74, 74);
+  color: white;
 }

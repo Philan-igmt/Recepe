@@ -3,17 +3,15 @@
   padding: 0;
 }
 .card {
-  width: 200px;
-  justify-content: space-between;
+  width: 300px;
+  justify-content: center;
   height: auto;
-  margin: 2%;
+  margin: 5%;
   border: orchid 2px solid;
   color: white;
   background-color: black;
 }
 
-.everything {
-  /* display: flex; */
-  flex-wrap: wrap;
-  align-items: center;
+.card-title {
+  background-color: rgb(180, 167, 167, 0.7);
 }

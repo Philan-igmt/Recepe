@@ -9,7 +9,7 @@ function Nav() {
           <a href="#" className="brand-logo right">
             <img src={logo} width="80px" height="50px" alt="" />
           </a>
-          <ul id="nav-mobile" className="left hide-on-small-only">
+          <ul id="nav-mobile" className="left">
             <li>
               <h4>Recipe App</h4>
             </li>
