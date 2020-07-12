@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.card {
+  width: 200px;
+  justify-content: space-between;
+  height: auto;
+  margin: 2%;
+  border: orchid 2px solid;
+  color: white;
+  background-color: black;
+}
+
+.everything {
+  /* display: flex; */
+  flex-wrap: wrap;
+  align-items: center;
+}
